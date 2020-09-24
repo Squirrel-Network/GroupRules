@@ -5,7 +5,6 @@
 # REGOLAMENTO DI SQUIRREL NETWORK
 
 
-
 ‼️ Evitare il flood, preferire la funzione modifica di Telegram
 
 ‼️ Non bestemmiare
@@ -45,7 +44,8 @@
 ‼️ Non fare niente che richieda a noi di fare nuove regole.
 
 
+
 Sarà tollerato un solo avviso, ogni successiva mancanza verrà penalizzata col ban
 
 
-<a href="https://t.me/squirrelnetwork">==> NETWORK <==</a>
+<a href="https://t.me/squirrelnetwork">==> IL NOSTRO NETWORK <==</a>
