@@ -39,7 +39,7 @@
 
 ‼️ É severamente vietato lo spam all'interno del gruppo, se volete condividere il vostro gruppo o canale potete contattare un admin in sede privata.
 
-‼️ É severamente vietato l'utilizzo di nickname o nomi non consoni alla chat.
+‼️ É severamente vietato l'utilizzo di nickname o nomi o foto di profilo non consoni alla chat.
 
 ‼️ Non fare niente che richieda a noi di fare nuove regole.
 
