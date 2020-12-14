@@ -35,7 +35,7 @@
 
 ‼️ Non è ammesso discutere di attività relative a hacking anche se rientrano nel campo etico
 
-‼️ Per annunciare opportunità lavorative, usare il tag @admin per chiedere il permesso allo staff.
+‼️ Per annunciare opportunità lavorative, usare il tag @admin per chiedere il permesso allo staff o scrivere in sede privata ad un membro dello staff.
 
 ‼️ É severamente vietato lo spam all'interno del gruppo, se volete condividere il vostro gruppo o canale potete contattare un admin in sede privata.
 
