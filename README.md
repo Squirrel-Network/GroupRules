@@ -27,7 +27,7 @@
 
 ‼️ Off topic ammesso se non è già presente una discussione ontopic in corso - abbiamo un gruppo offtopic @offtopic_ita
 
-‼️ Utilizzare servizio bin per postare codice (pastebin.com , hastebin.com, jsfiddle.net, ...)
+‼️ Utilizzare servizio bin per postare codice (pastebin.com , hastebin.com, jsfiddle.net, nekobin.com, ...)
 
 ‼️ Non è ammesso postare eseguibili o link ad eseguibili senza una descrizione precisa
 
