@@ -2,7 +2,7 @@
 <img src="./img/Logo.png" alt="Smiley face" height="300" width="300">
 </p>
 
-# REGOLAMENTO DI SQUIRREL NETWORK
+# REGOLAMENTO DI SQUIRREL NETWORK (ITA VERSION)
 
 
 ‼️ Evitare il flood, preferire la funzione modifica di Telegram
@@ -49,3 +49,52 @@ Sarà tollerato un solo avviso, ogni successiva mancanza verrà penalizzata col 
 
 
 <a href="https://t.me/squirrelnetwork">==> IL NOSTRO NETWORK <==</a>
+
+
+<br>
+<br>
+<br>
+
+# RULES OF SQUIRREL NETWORK. (ENG VERSION)
+
+‼️ Avoid flooding, use edit feature of telegram.
+
+‼️ don't say profanities.
+
+‼️ no flame.
+
+‼️ no spam
+
+‼️ no black humor
+
+‼️ no userbot
+
+‼️ use a proper language for the context
+
+‼️ don't disrespect admins
+
+‼️ don't slander other users
+
+‼️ psychedelic / epileptic gifs are not tolerated
+
+‼️ off topic is permitted if it's not already present an ontopic talk - we have an off topic group @offtopic_ita
+
+‼️ use bin service to post code (pastebin.com , hastebin.com, jsfiddle.net, nekobin.com, ...)
+
+‼️ posting executables or link towards executables are not permitted without a clear description
+
+‼️ is forbidden to post pirated content or talk about piracy
+
+‼️ is not permitted to talk about hacking even if is ethical
+
+‼️ to announce job opportunities, use the @admin tag to ask for permission from the staff or write privately to a staff member
+
+‼️ Spam inside of the group is forbidden, if you want to share your group or channel talk to an admin
+
+‼️ is forbidden to use nicknames, names or profile pictures not suited to the chat
+
+‼️ don't do anything that makes us make more rules
+
+‼️ only one warn is tolerated, any other violation will be penalized with a ban
+
+<a href="https://t.me/squirrelnetwork">==> OUR NETWORK <==</a>
