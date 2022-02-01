@@ -31,7 +31,7 @@
 
 ‼️ Non è ammesso postare eseguibili o link ad eseguibili senza una descrizione precisa
 
-‼️ Non è ammesso discutere di od inviare materiale piratato
+‼️ Non è ammesso discutere di materiale piratato o inviarlo in qualsiasi forma
 
 ‼️ Non è ammesso discutere di attività relative a hacking anche se rientrano nel campo etico
 
