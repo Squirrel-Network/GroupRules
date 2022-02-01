@@ -37,8 +37,9 @@
 
 ‼️ Per annunciare opportunità lavorative, è obbligatorio usare il tag @admin per chiedere il permesso allo staff o scrivere in sede privata ad un membro dello staff.
 <br>
-  nb: L'annuncio approvato avrà validità solo per quel singolo annuncio non ha validità retroattiva e onnipresente. 
-  Per ogni nuovo annuncio o lo stesso ripetuto è   necessario ripetere la procedura di approvazione.
+  <b>NB:</b> L'annuncio approvato avrà validità solo per quel singolo annuncio non ha validità retroattiva e onnipresente.
+  <br>
+  Per ogni nuovo annuncio o lo stesso ripetuto è necessario ripetere la procedura di approvazione.
 
 ‼️ É severamente vietato lo spam all'interno del gruppo, se volete condividere il vostro gruppo o canale potete contattare un admin in sede privata.
 
