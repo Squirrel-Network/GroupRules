@@ -49,13 +49,14 @@
   - sarà premura della persona che vorrà accettare il lavoro concordare una fascia di prezzo oraria.
   <br>
   <br>
-<br>
   <b>NB:</b> L'annuncio approvato avrà validità solo per quel singolo annuncio non ha validità retroattiva e onnipresente.
   <br>
   Per ogni nuovo annuncio o lo stesso ripetuto è necessario ripetere la procedura di approvazione.
-<br>
-<b>Ogni annuncio che non rispetterà queste semplici linee guida verrà ignorato.</b>
-<br>
+  <br>
+  <b>Ogni annuncio che non rispetterà queste semplici linee guida verrà ignorato.</b>
+  <br>
+
+
 ‼️ É severamente vietato lo spam all'interno del gruppo, se volete condividere il vostro gruppo o canale potete contattare un admin in sede privata.
 
 ‼️ É severamente vietato l'utilizzo di nickname o nomi o foto di profilo non consoni alla chat.
