@@ -36,6 +36,15 @@
 ‼️ Non è ammesso discutere di attività relative a hacking anche se rientrano nel campo etico
 
 ‼️ Per annunciare opportunità lavorative, è obbligatorio usare il tag @admin per chiedere il permesso allo staff o scrivere in sede privata ad un membro dello staff.
+  Brevi linee Guida:
+  <br>
+  Gli annunci dovranno essere obbligatoriamente corrisposti da un RAL se l'annuncio è proposta da un'azienda.
+  <br>
+  GLi annunci privati dovranno essere obbligatoriamente corrisposti da una paga fissa oraria che non sia inferiore alle 12€/ora
+  <br>
+  sarà premura della persona che vorrà accettare il lavoro concordare una fascia di prezzo oraria.
+  <br>
+  Ogni annuncio che non rispetterà queste semplici linee guida verrà ignorato.
 <br>
   <b>NB:</b> L'annuncio approvato avrà validità solo per quel singolo annuncio non ha validità retroattiva e onnipresente.
   <br>
