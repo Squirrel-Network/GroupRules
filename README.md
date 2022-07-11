@@ -40,7 +40,7 @@
   <br>
   <b>Brevi linee Guida:</b>
   <br>
-  - Gli annunci dovranno essere obbligatoriamente corrisposti da un RAL se l'annuncio è proposta da un'azienda.
+  - Gli annunci dovranno essere obbligatoriamente corrisposti da un RAL se l'annuncio è proposto da un'azienda.
   <br>
   
   - GLi annunci privati dovranno essere obbligatoriamente corrisposti da una paga fissa oraria che non sia inferiore alle 12€/ora
