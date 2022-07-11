@@ -42,8 +42,10 @@
   <br>
   - Gli annunci dovranno essere obbligatoriamente corrisposti da un RAL se l'annuncio è proposta da un'azienda.
   <br>
+  
   - GLi annunci privati dovranno essere obbligatoriamente corrisposti da una paga fissa oraria che non sia inferiore alle 12€/ora
   <br>
+  
   - sarà premura della persona che vorrà accettare il lavoro concordare una fascia di prezzo oraria.
   <br>
   <b>Ogni annuncio che non rispetterà queste semplici linee guida verrà ignorato.</b>
