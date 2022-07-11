@@ -55,6 +55,7 @@
   <br>
   Per ogni nuovo annuncio o lo stesso ripetuto è necessario ripetere la procedura di approvazione.
 
+
 ‼️ É severamente vietato lo spam all'interno del gruppo, se volete condividere il vostro gruppo o canale potete contattare un admin in sede privata.
 
 ‼️ É severamente vietato l'utilizzo di nickname o nomi o foto di profilo non consoni alla chat.
