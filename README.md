@@ -15,13 +15,11 @@
 
 ‼️ No black humor
 
-‼️ No userbot
+‼️ Non sono ammessi userbot non autorizzati
 
 ‼️ Usare un linguaggio adatto al contesto
 
-‼️ Non mancare di rispetto agli admin
-
-‼️ Non calunniare altri utenti
+‼️ Non mancare di rispetto utenti e admin
 
 ‼️ Non sono tollerate le gif psichedeliche/epilettiche
 
@@ -60,6 +58,8 @@
 ‼️ É severamente vietato lo spam all'interno del gruppo, se volete condividere il vostro gruppo o canale potete contattare un admin in sede privata.
 
 ‼️ É severamente vietato l'utilizzo di nickname o nomi o foto di profilo non consoni alla chat.
+
+‼️ É severamente vietato postare fake news, fare disinformazione o portare al gruppo complotti. 
 
 ‼️ Non fare niente che richieda a noi di fare nuove regole.
 
