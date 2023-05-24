@@ -53,6 +53,8 @@
   <br>
   <b>Ogni annuncio che non rispetterà queste semplici linee guida verrà ignorato.</b>
   <br>
+  <br>
+
 
 
 ‼️ É severamente vietato lo spam all'interno del gruppo, se volete condividere il vostro gruppo o canale potete contattare un admin in sede privata.
